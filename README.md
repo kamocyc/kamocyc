@@ -7,7 +7,7 @@
 
 ## Products
 
-* [Rep RSS](https://github.com/kamocyc/kamocyc/rep-rss.md)
+* [Rep RSS](https://github.com/kamocyc/kamocyc/blob/master/rep-rss.md)
 * [vscode-quick-note-searcher](https://github.com/kamocyc/vscode-quick-note-searcher)
 
 ## Programming Languages
