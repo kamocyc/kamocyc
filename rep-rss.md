@@ -1,11 +1,12 @@
 # Rep RSS
 
+* **Hosted at: https://ancient-shelf-27599.herokuapp.com/**
+
 Twitterとはてなブックマークで話題の順に記事とコメントを表示するRSSリーダ
 
 [Hacker News](https://news.ycombinator.com/)に似たUIを目指して作りました。
 
 * Repository: https://github.com/kamocyc/rep-rss
-* Hosted at: https://ancient-shelf-27599.herokuapp.com/
 * 仕様: https://github.com/kamocyc/rep-rss/wiki
 
 <p align="center">
@@ -25,7 +26,7 @@ Twitterとはてなブックマークで話題の順に記事とコメントを�
 
 ## 技術など
 
-言語は主にTypeScriptを使用。Expressの使い方はN予備校の資料を参考にした。
+言語は主にTypeScriptを使用。Expressの使い方はN予備校の資料を参考にしました。
 
 * バックエンド: Express, sequelize.js
 * フロントエンド: React
