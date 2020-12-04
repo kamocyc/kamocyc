@@ -1,5 +1,3 @@
-# 棚橋 健人 (Kento Tanahashi)
-
 * [Twitter](https://twitter.com/kamocyc)
 * [GitHub](https://github.com/kamocyc)
 * [Blog](https://kamocyc.hatenablog.com/)
