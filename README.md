@@ -3,6 +3,7 @@
 * [Blog](https://kamocyc.hatenablog.com/)
 * [Qiita](https://qiita.com/Kamo123)
 
+<!--
 ## Products
 
 * [Rep RSS](https://github.com/kamocyc/kamocyc/blob/master/rep-rss.md)
@@ -33,7 +34,6 @@
   * Scala (Play Framework)
   * Ruby (Rails)
 
-<!--
 ## Interests
 
 * 型理論
